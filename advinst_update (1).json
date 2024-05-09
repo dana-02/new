@@ -1,0 +1,5 @@
+{
+  "ServerFileName": "version2.msi",
+  "RegistryKey": "HKLM\\Software\\Your Company\\Your Application\\Version",
+  "Version": "2.0.0"
+}
